@@ -1,0 +1,16 @@
+[
+	{
+		"modid": "SunlightOres",
+		"name": "SunlightOres 1.12",
+		"description": "A short and simple mod for 1.12.2 having ores that get power from the SUN!, using ForgeGradle 5.1.",
+		"version": "${version}",
+		"mcversion": "1.12.2",
+		"url": "",
+		"updateUrl": "",
+		"authorList": ["Nightlight Group"],
+		"credits": "",
+		"logoFile": "",
+		"screenshots": [],
+		"dependencies": []
+	}
+]
